@@ -1,5 +1,7 @@
-## Sales Report :
 
+# Sales Report & Finance Report for AtliQ Hardware
+
+## Sales Report :
 
 - **Project objective:** 
 
